@@ -15,3 +15,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+http://live.nctv.top/x.txt
+https://4key.cn/FP
+http://rihou.cc:555/gggg.nzk 
+http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/zhibo.txt 

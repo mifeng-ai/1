@@ -30,4 +30,5 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 http://8.138.7.223/live.txt
 https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
 http://zykjtv01.usa7.345888.xyz.cdn.cloudflare.net/zhibo.txt
+https://codeberg.org/xiaohuli/ZJ.4K/raw/branch/main/zb.png
 

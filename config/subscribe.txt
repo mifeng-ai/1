@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://tv.iill.top/m3u/Live
 https://codeberg.org/lxxcp/live/raw/branch/main/jxdxiptv.txt
 https://codeberg.org/sy147258/iptv/raw/branch/main/%E7%94%B5%E8%A7%86
+https://codeberg.org/huwo/stellar-watch-tv/raw/branch/main/live.m3u
 
 http://8.138.7.223/live.txt
 https://tv.iill.top/m3u/Gather

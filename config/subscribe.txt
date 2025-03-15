@@ -35,7 +35,7 @@ https://codeberg.org/huwo/stellar-watch-tv/raw/branch/main/live.m3u
 http://8.138.7.223/live.txt
 https://tv.iill.top/m3u/Gather
 https://11214.kstore.space/zb.txt
-http://1.94.31.214/live/livelite228.txt
+http://1.94.31
 https://gitee.com/qqyywb/tv/raw/master/TV.json
 http://live.nctv.top/x.txt
 https://4key.cn/FP

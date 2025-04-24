@@ -1,0 +1,279 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mifeng-ai/1/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道#genre#",CCTV-13
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道#genre#",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道#genre#",CCTV-13
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道#genre#",CCTV-14
+https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="📡卫视频道#genre#",香港卫视
+https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道#genre#",浙江卫视
+http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道#genre#",浙江卫视
+http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道#genre#",黑龙江卫视
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道#genre#",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道#genre#",甘肃卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道#genre#",广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道#genre#",广西卫视
+http://live.cztv.cc:85/live/ggpd.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道#genre#",河北卫视
+https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道#genre#",河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="📡卫视频道#genre#",内蒙古卫视
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道#genre#",山东卫视
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道#genre#",山西卫视
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="📡卫视频道#genre#",三沙卫视
+https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=18df2caf1744908993
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="☘️湖南频道#genre#",湖南都市
+http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="☘️湖南频道#genre#",湖南电视剧
+http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="☘️湖南频道#genre#",湖南娱乐
+http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="☘️湖南频道#genre#",金鹰纪实
+http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-7.m3u8
+#EXTINF:-1 tvg-name="洛阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳综合.png" group-title="☘️河南频道#genre#",洛阳综合
+https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳科教.png" group-title="☘️河南频道#genre#",洛阳科教
+https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳文旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳文旅.png" group-title="☘️河南频道#genre#",洛阳文旅
+https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东新闻.png" group-title="☘️山东频道#genre#",山东新闻
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 tvg-name="马向阳第1集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第1集.png" group-title="📺马向阳#genre#",马向阳第1集
+https://oto.lv.tab.digital/s/wAYt7AbP7DSSny3/download/%E9%A9%AC%E5%90%91%E9%98%B301.MP4
+#EXTINF:-1 tvg-name="马向阳第2集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第2集.png" group-title="📺马向阳#genre#",马向阳第2集
+https://oto.lv.tab.digital/s/nHWRbtny8cHMmZ6/download/2.mp4
+#EXTINF:-1 tvg-name="马向阳第3集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第3集.png" group-title="📺马向阳#genre#",马向阳第3集
+https://oto.lv.tab.digital/s/cfrBp47ZEof8KwR/download/3.mp4
+#EXTINF:-1 tvg-name="马向阳第4集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第4集.png" group-title="📺马向阳#genre#",马向阳第4集
+https://oto.lv.tab.digital/s/EkYqqm8CXmi9qDm/download/4.mp4
+#EXTINF:-1 tvg-name="马向阳第5集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第5集.png" group-title="📺马向阳#genre#",马向阳第5集
+https://oto.lv.tab.digital/s/esYwHomLrZFR7Hc/download/5.mp4
+#EXTINF:-1 tvg-name="马向阳第6集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第6集.png" group-title="📺马向阳#genre#",马向阳第6集
+https://oto.lv.tab.digital/s/wrt3cYBZbFt6j7j/download/0.mp4
+#EXTINF:-1 tvg-name="马向阳第7集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第7集.png" group-title="📺马向阳#genre#",马向阳第7集
+https://oto.lv.tab.digital/s/WzDotjDEcpTpWDa/download/7.mp4
+#EXTINF:-1 tvg-name="马向阳第8集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第8集.png" group-title="📺马向阳#genre#",马向阳第8集
+https://oto.lv.tab.digital/s/tcxWbzwyKA7am2A/download/8.mp4
+#EXTINF:-1 tvg-name="马向阳第9集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第9集.png" group-title="📺马向阳#genre#",马向阳第9集
+https://oto.lv.tab.digital/s/LEXrxnG5tZbmNFn/download/9.mp4
+#EXTINF:-1 tvg-name="马向阳第10集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第10集.png" group-title="📺马向阳#genre#",马向阳第10集
+https://oto.lv.tab.digital/s/TSZgSMgzMmRHXNg/download/10.mp4
+#EXTINF:-1 tvg-name="马向阳第11集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第11集.png" group-title="📺马向阳#genre#",马向阳第11集
+https://oto.lv.tab.digital/s/9s9ynTKE6Cs6Bqa/download/11.mp4
+#EXTINF:-1 tvg-name="马向阳第12集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第12集.png" group-title="📺马向阳#genre#",马向阳第12集
+https://oto.lv.tab.digital/s/xKEJrtcSyHor6jJ/download/12.mp4
+#EXTINF:-1 tvg-name="马向阳第13集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第13集.png" group-title="📺马向阳#genre#",马向阳第13集
+https://oto.lv.tab.digital/s/qkKKpDrmm2DJdLf/download/13.mp4
+#EXTINF:-1 tvg-name="马向阳第14集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第14集.png" group-title="📺马向阳#genre#",马向阳第14集
+https://oto.lv.tab.digital/s/LzmBc66q4rm5oYe/download/14.mp4
+#EXTINF:-1 tvg-name="马向阳第15集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第15集.png" group-title="📺马向阳#genre#",马向阳第15集
+https://oto.lv.tab.digital/s/TaYD9zdZWFB9YZk/download/15.mp4
+#EXTINF:-1 tvg-name="马向阳第16集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第16集.png" group-title="📺马向阳#genre#",马向阳第16集
+https://oto.lv.tab.digital/s/QHjjyib7TcCqoaY/download/00.mp4
+#EXTINF:-1 tvg-name="马向阳第17集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第17集.png" group-title="📺马向阳#genre#",马向阳第17集
+https://oto.lv.tab.digital/s/JjLAReXZsEyt4dj/download/17.mp4
+#EXTINF:-1 tvg-name="马向阳第18集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第18集.png" group-title="📺马向阳#genre#",马向阳第18集
+https://oto.lv.tab.digital/s/pNYqn5JBJzpyZc7/download/18.mp4
+#EXTINF:-1 tvg-name="马向阳第19集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第19集.png" group-title="📺马向阳#genre#",马向阳第19集
+https://oto.lv.tab.digital/s/CYq2WNWXWb6Wbkp/download/19.mp4
+#EXTINF:-1 tvg-name="马向阳第20集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第20集.png" group-title="📺马向阳#genre#",马向阳第20集
+https://oto.lv.tab.digital/s/LAqPWRJERWW3Mmm/download/20.mp4
+#EXTINF:-1 tvg-name="马向阳第21集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第21集.png" group-title="📺马向阳#genre#",马向阳第21集
+https://oto.lv.tab.digital/s/Q9SxkPcDX3e4qT3/download/21.mp4
+#EXTINF:-1 tvg-name="马向阳第22集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第22集.png" group-title="📺马向阳#genre#",马向阳第22集
+https://oto.lv.tab.digital/s/igc9rYYE2BBbp5F/download/22.mp4
+#EXTINF:-1 tvg-name="马向阳第23集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第23集.png" group-title="📺马向阳#genre#",马向阳第23集
+https://oto.lv.tab.digital/s/78skjAyXSaJNgbj/download/23.mp4
+#EXTINF:-1 tvg-name="马向阳第24集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第24集.png" group-title="📺马向阳#genre#",马向阳第24集
+https://oto.lv.tab.digital/s/3tjxBXLGRcoArpG/download/24.mp4
+#EXTINF:-1 tvg-name="马向阳第25集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第25集.png" group-title="📺马向阳#genre#",马向阳第25集
+https://oto.lv.tab.digital/s/DFtgGxAGekRcDPL/download/25.mp4
+#EXTINF:-1 tvg-name="马向阳第27集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第27集.png" group-title="📺马向阳#genre#",马向阳第27集
+https://oto.lv.tab.digital/s/L6S3fmHfRj9TYbi/download/27.mp4
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="☘️动画频道#genre#",金鹰卡通
+http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="☘️动画频道#genre#",浙江少儿
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="☘️动画频道#genre#",河北少儿科教
+https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="☘️动画频道#genre#",海绵宝宝
+https://live.metshop.top/douyu/3949681
+#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中华小当家.png" group-title="☘️动画频道#genre#",中华小当家
+https://live.metshop.top/huya/11342413
+#EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="☘️动画频道#genre#",漫画解说
+https://www.goodiptv.club/douyu/5907076
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="☘️经典剧场#genre#",天龙八部
+https://live.metshop.top/huya/23903123
+#EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="☘️经典剧场#genre#",士兵突击
+https://live.metshop.top/huya/11342430
+#EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典频道.png" group-title="☘️经典剧场#genre#",重温经典频道
+http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-name="变形金刚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/变形金刚.png" group-title="YY",变形金刚
+https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
+#EXTINF:-1 tvg-name="士兵突击" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/士兵突击.png" group-title="YY",士兵突击
+https://live.metshop.top/huya/11342430
+#EXTINF:-1 tvg-name="包蛋超人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/包蛋超人.png" group-title="YY",包蛋超人
+https://www.goodiptv.club/huya/11342400
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🇨🇳电视剧轮播",天龙八部
+https://live.metshop.top/huya/23903123
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🇨🇳虎牙直播",天龙八部
+https://live.metshop.top/huya/23903123
+#EXTINF:-1 tvg-name="曲剧-海连池《卷席筒》大老爷你稳坐在察院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧-海连池《卷席筒》大老爷你稳坐在察院.png" group-title="戏曲频道",曲剧-海连池《卷席筒》大老爷你稳坐在察院
+http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4
+#EXTINF:-1 tvg-name="卷席筒" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卷席筒.png" group-title="戏曲频道",卷席筒
+http://gcw.bdcdn.shoujiduoduo.com/v/190203/578c5362ec8840f354a99196387f11d5.mp4
+#EXTINF:-1 tvg-name="“小仓娃我离了-登封小县”选段-曲剧《卷席筒》杨学" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/“小仓娃我离了-登封小县”选段-曲剧《卷席筒》杨学.png" group-title="戏曲频道",“小仓娃我离了-登封小县”选段-曲剧《卷席筒》杨学
+http://gcw.bdcdn.shoujiduoduo.com/v/190602/8b28dec624f172d186f11fc7290c48ff.mp4
+#EXTINF:-1 tvg-name="海连池曲剧《卷席筒》经典选段：小仓娃跪大堂诉冤枉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海连池曲剧《卷席筒》经典选段：小仓娃跪大堂诉冤枉.png" group-title="戏曲频道",海连池曲剧《卷席筒》经典选段：小仓娃跪大堂诉冤枉
+http://gcw.bdcdn.shoujiduoduo.com/v/190223/09e4765a1fdf115854f683e7fa863377.mp4
+#EXTINF:-1 tvg-name="曲剧小仓哇发配团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧小仓哇发配团.png" group-title="戏曲频道",曲剧小仓哇发配团
+http://gcw.bdcdn.shoujiduoduo.com/v/190404/52298ebc73c6ef8b36a34ad9e09c924d.mp4
+#EXTINF:-1 tvg-name="曲剧秦香莲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧秦香莲.png" group-title="戏曲频道",曲剧秦香莲
+http://gcw.bdcdn.shoujiduoduo.com/v/190130/f825d70cb7e1820a4e75a050793dc241.mp4
+#EXTINF:-1 tvg-name="李天方夫妇演唱曲剧《苍娃找爹》就" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/李天方夫妇演唱曲剧《苍娃找爹》就.png" group-title="戏曲频道",李天方夫妇演唱曲剧《苍娃找爹》就
+http://gcw.bdcdn.shoujiduoduo.com/v/190624/0a20f9fccd7449afab722eed0ef0eedf.mp4
+#EXTINF:-1 tvg-name="曲剧_陈三两(孔素红)陈三两漫步上公庭" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧_陈三两(孔素红)陈三两漫步上公庭.png" group-title="戏曲频道",曲剧_陈三两(孔素红)陈三两漫步上公庭
+http://gcw.bdcdn.shoujiduoduo.com/v/190710/916c9cf23da02dfea6e1bc13dd328bf6.mp4
+#EXTINF:-1 tvg-name="张新芳——曲剧《陈三两》：陈三两迈步上公庭" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/张新芳——曲剧《陈三两》：陈三两迈步上公庭.png" group-title="戏曲频道",张新芳——曲剧《陈三两》：陈三两迈步上公庭
+http://gcw.bdcdn.shoujiduoduo.com/v/210118/6c7200369ec769f15448231b47e8bab3.mp4
+#EXTINF:-1 tvg-name="(曲剧【秦香莲】全场●河南省曲剧团●★mp4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/(曲剧【秦香莲】全场●河南省曲剧团●★mp4.png" group-title="戏曲频道",(曲剧【秦香莲】全场●河南省曲剧团●★mp4
+http://gcw.bdcdn.shoujiduoduo.com/v/190318/114d1ca4f536bc0b172ceb9ddb07eb36.mp4
+#EXTINF:-1 tvg-name="十冬腊月天你不该拿着那芦花当丝棉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/十冬腊月天你不该拿着那芦花当丝棉.png" group-title="戏曲频道",十冬腊月天你不该拿着那芦花当丝棉
+http://gcw.bdcdn.shoujiduoduo.com/v/190519/46d622ba7c7985c5e8045be5a1975188.mp4
+#EXTINF:-1 tvg-name="王华买爹第1集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王华买爹第1集.png" group-title="戏曲频道",王华买爹第1集
+http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/eac79457c0bbc458be19715b4bdc573f.mp4
+#EXTINF:-1 tvg-name="王华买爹第2集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王华买爹第2集.png" group-title="戏曲频道",王华买爹第2集
+http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/060dde67d9a7e11898d2ab7d473b5509.mp4
+#EXTINF:-1 tvg-name="王华买爹第3集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王华买爹第3集.png" group-title="戏曲频道",王华买爹第3集
+http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/55da4c403d2ea51fa5602f304d4febc3.mp4
+#EXTINF:-1 tvg-name="王华买爹第6集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王华买爹第6集.png" group-title="戏曲频道",王华买爹第6集
+http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/27bfba291a0fb4f0bce5377b27f709f5.mp4
+#EXTINF:-1 tvg-name="王华买爹第7集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王华买爹第7集.png" group-title="戏曲频道",王华买爹第7集
+http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/92fa5f80e4dc70d3fdea32b0c386a821.mp4
+#EXTINF:-1 tvg-name="曲剧名家胡希华曲剧《李豁子我遭了啥罪》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧名家胡希华曲剧《李豁子我遭了啥罪》.png" group-title="戏曲频道",曲剧名家胡希华曲剧《李豁子我遭了啥罪》
+http://gcw.bdcdn.shoujiduoduo.com/v/190711/123d9450d12ba8ac814e5842c1463256.mp4
+#EXTINF:-1 tvg-name="不愧是戏曲上的不倒翁" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/不愧是戏曲上的不倒翁.png" group-title="戏曲频道",不愧是戏曲上的不倒翁
+http://gcw.bdcdn.shoujiduoduo.com/v/190617/d37e4e0a63b5cfd4ec0c05edb64351e4.mp4
+#EXTINF:-1 tvg-name="曲剧全场戏【下陈州】上集★" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧全场戏【下陈州】上集★.png" group-title="戏曲频道",曲剧全场戏【下陈州】上集★
+http://gcw.bdcdn.shoujiduoduo.com/v/191207/33327eea240ea54022d0024e4c8c8454.mp4
+#EXTINF:-1 tvg-name="曲剧打龙袍" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧打龙袍.png" group-title="戏曲频道",曲剧打龙袍
+http://gcw.bdcdn.shoujiduoduo.com/v/191012/bb2fb4f0811d29c56dd6edfd9427b752.mp4
+#EXTINF:-1 tvg-name="二进宫纪念齐晓春先生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/二进宫纪念齐晓春先生.png" group-title="戏曲频道",二进宫纪念齐晓春先生
+http://gcw.bdcdn.shoujiduoduo.com/v/210120/f4fb625fecd6e39818b90086e616ab19.mp4
+#EXTINF:-1 tvg-name="曲剧《桑林收子》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《桑林收子》.png" group-title="戏曲频道",曲剧《桑林收子》
+http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
+#EXTINF:-1 tvg-name="曲剧《背靴访帅》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《背靴访帅》.png" group-title="戏曲频道",曲剧《背靴访帅》
+http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子做梦》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子做梦》.png" group-title="戏曲频道",曲剧《李豁子做梦》
+http://gcw.bdcdn.shoujiduoduo.com/v/191208/d1a3c9f90719f7eebdafd964b7bcb8f8.mp4
+#EXTINF:-1 tvg-name="曲剧《刘公案》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《刘公案》.png" group-title="戏曲频道",曲剧《刘公案》
+http://gcw.bdcdn.shoujiduoduo.com/v/190429/2ef6445a1215cf06049cac61d72f201e.mp4
+#EXTINF:-1 tvg-name="秦芳欣表演" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/秦芳欣表演.png" group-title="戏曲频道",秦芳欣表演
+http://gcw.bdcdn.shoujiduoduo.com/v/190613/1b015c533e065640f025f440158384ae.mp4
+#EXTINF:-1 tvg-name="曲剧《风雪配》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《风雪配》.png" group-title="戏曲频道",曲剧《风雪配》
+http://gcw.bdcdn.shoujiduoduo.com/v/190702/3e371e8c94d2e1070319298ce2f9c2b7.mp4
+#EXTINF:-1 tvg-name="名家演唱会" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/名家演唱会.png" group-title="戏曲频道",名家演唱会
+http://gcw.bdcdn.shoujiduoduo.com/v/190710/acb4c10132c1db9122b9fc1d9bb662e1.mp4
+#EXTINF:-1 tvg-name="曲剧《十八哭》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《十八哭》.png" group-title="戏曲频道",曲剧《十八哭》
+http://gcw.bdcdn.shoujiduoduo.com/v/190304/7dc7811188639217fb8299804021325f.mp4
+#EXTINF:-1 tvg-name="曲剧《王华买爹》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《王华买爹》.png" group-title="戏曲频道",曲剧《王华买爹》
+http://gcw.bdcdn.shoujiduoduo.com/v/190902/19ce2ae8133857ae7ffc2dbe0c674a3b.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子说媒》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子说媒》.png" group-title="戏曲频道",曲剧《李豁子说媒》
+http://gcw.bdcdn.shoujiduoduo.com/v/190404/fe8abd72959145ed7ca5b56342849b89.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子说媒》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子说媒》.png" group-title="戏曲频道",曲剧《李豁子说媒》
+http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子说媒》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子说媒》.png" group-title="戏曲频道",曲剧《李豁子说媒》
+http://gcw.bdcdn.shoujiduoduo.com/v/190404/fe8abd72959145ed7ca5b56342849b89.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子说媒》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子说媒》.png" group-title="戏曲频道",曲剧《李豁子说媒》
+http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
+#EXTINF:-1 tvg-name="曲剧《卷席筒》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《卷席筒》.png" group-title="戏曲频道",曲剧《卷席筒》
+http://gcw.bdcdn.shoujiduoduo.com/v/190527/315a044c2b9cf3a17e2b37ef09e21cd5.mp4
+#EXTINF:-1 tvg-name="曲剧小段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧小段.png" group-title="戏曲频道",曲剧小段
+http://gcw.bdcdn.shoujiduoduo.com/v/190513/4a77c50ae75a653dfbf5396f45c592e3.mp4
+#EXTINF:-1 tvg-name="曲剧【借簪子】全场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧【借簪子】全场.png" group-title="戏曲频道",曲剧【借簪子】全场
+http://gcw.bdcdn.shoujiduoduo.com/v/190428/002d8daebc70bfbe6e809d28b55084af.mp4
+#EXTINF:-1 tvg-name="曲剧《荆钗记》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《荆钗记》.png" group-title="戏曲频道",曲剧《荆钗记》
+http://gcw.bdcdn.shoujiduoduo.com/v/190706/f24473d42d884882617f29ab1157b8ab.mp4
+#EXTINF:-1 tvg-name="曲剧《五福临门》【全场】" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《五福临门》【全场】.png" group-title="戏曲频道",曲剧《五福临门》【全场】
+http://gcw.bdcdn.shoujiduoduo.com/v/200302/3b18c2c8f578035387fc737d88dd8f9e.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子》选段.png" group-title="戏曲频道",曲剧《李豁子》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/201105/3e869cb57c096666978b871997e1781e.mp4
+#EXTINF:-1 tvg-name="曲剧全集《惊蛰》-上集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧全集《惊蛰》-上集.png" group-title="戏曲频道",曲剧全集《惊蛰》-上集
+http://gcw.bdcdn.shoujiduoduo.com/v/201105/8fb403bfce72a9ae63ec389b5c756092.mp4
+#EXTINF:-1 tvg-name="曲剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧.png" group-title="戏曲频道",曲剧
+http://gcw.bdcdn.shoujiduoduo.com/v/190419/9e086a2c7ef700f51bb480e522a947ae.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子说媒》-_超清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子说媒》-_超清.png" group-title="戏曲频道",曲剧《李豁子说媒》-_超清
+http://gcw.bdcdn.shoujiduoduo.com/v/190325/3635fa4901fb8f63a26cf623a9c3c549.mp4
+#EXTINF:-1 tvg-name="曲剧《武家坡》全场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《武家坡》全场.png" group-title="戏曲频道",曲剧《武家坡》全场
+http://gcw.bdcdn.shoujiduoduo.com/v/191207/d25810bf3aa56d64dcfa0722c0682570.mp4
+#EXTINF:-1 tvg-name="曲剧《卷席筒》海连池、刘兰玉、马二章(79年舞台版)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《卷席筒》海连池、刘兰玉、马二章(79年舞台版).png" group-title="戏曲频道",曲剧《卷席筒》海连池、刘兰玉、马二章(79年舞台版)
+http://gcw.bdcdn.shoujiduoduo.com/v/190501/effda381decab3a9da4e1d8090de384a.mp4
+#EXTINF:-1 tvg-name="曲剧《李豁子离婚》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《李豁子离婚》选段.png" group-title="戏曲频道",曲剧《李豁子离婚》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/201115/66568433507300287649a7579cfe59d0.mp4
+#EXTINF:-1 tvg-name="曲剧【赵氏孤儿】全场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧【赵氏孤儿】全场.png" group-title="戏曲频道",曲剧【赵氏孤儿】全场
+http://gcw.bdcdn.shoujiduoduo.com/v/190325/870b319c7c76d1454305c961de3193d7.mp4
+#EXTINF:-1 tvg-name="曲剧《龙情》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《龙情》.png" group-title="戏曲频道",曲剧《龙情》
+http://gcw.bdcdn.shoujiduoduo.com/v/190213/83b5aee6b0ae5ea6e0951c9169838997.mp4
+#EXTINF:-1 tvg-name="曲剧《哑女告状》完整版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《哑女告状》完整版.png" group-title="戏曲频道",曲剧《哑女告状》完整版
+http://gcw.bdcdn.shoujiduoduo.com/v/200608/7fcc1b27a03acfbf1b7b8379370387fa.mp4
+#EXTINF:-1 tvg-name="曲剧《铡赵王》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《铡赵王》.png" group-title="戏曲频道",曲剧《铡赵王》
+http://gcw.bdcdn.shoujiduoduo.com/v/190924/93b9d37f2c7420477a1b082c77a06220.mp4
+#EXTINF:-1 tvg-name="曲剧名家李亚军、刘艳丽曲剧《寇准背靴》小花园送饭选段！" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧名家李亚军、刘艳丽曲剧《寇准背靴》小花园送饭选段！.png" group-title="戏曲频道",曲剧名家李亚军、刘艳丽曲剧《寇准背靴》小花园送饭选段！
+http://gcw.bdcdn.shoujiduoduo.com/v/200331/c24282ad8c68477224055f19d324b30e.mp4
+#EXTINF:-1 tvg-name="曲剧《秦香莲挂帅》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《秦香莲挂帅》.png" group-title="戏曲频道",曲剧《秦香莲挂帅》
+http://gcw.bdcdn.shoujiduoduo.com/v/191122/98131f0938de177cb3ffbe7aa49f6632.mp4
+#EXTINF:-1 tvg-name="曲剧《刘全进瓜》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《刘全进瓜》.png" group-title="戏曲频道",曲剧《刘全进瓜》
+http://gcw.bdcdn.shoujiduoduo.com/v/190920/bd1f1d3a930f50f5ffbed6792da7865a.mp4
+#EXTINF:-1 tvg-name="曲剧《楚山宝》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《楚山宝》.png" group-title="戏曲频道",曲剧《楚山宝》
+http://gcw.bdcdn.shoujiduoduo.com/v/191122/1ade9113a8bcc9385cc6e9df9871a27e.mp4
+#EXTINF:-1 tvg-name="曲剧《刘公案》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《刘公案》选段.png" group-title="戏曲频道",曲剧《刘公案》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/201026/22e51c748600e5e42bc5a138c62c5160.mp4
+#EXTINF:-1 tvg-name="曲剧《风雪配》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《风雪配》选段.png" group-title="戏曲频道",曲剧《风雪配》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/190404/59e91848a56166a30a275089daf59b9a.mp4
+#EXTINF:-1 tvg-name="曲剧《风雪配》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《风雪配》选段.png" group-title="戏曲频道",曲剧《风雪配》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/190315/5d17a97a41c3debe8551adc2928b1ed8.mp4
+#EXTINF:-1 tvg-name="曲剧《风雪配》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《风雪配》选段.png" group-title="戏曲频道",曲剧《风雪配》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/190404/59e91848a56166a30a275089daf59b9a.mp4
+#EXTINF:-1 tvg-name="曲剧《风雪配》选段" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《风雪配》选段.png" group-title="戏曲频道",曲剧《风雪配》选段
+http://gcw.bdcdn.shoujiduoduo.com/v/190315/5d17a97a41c3debe8551adc2928b1ed8.mp4
+#EXTINF:-1 tvg-name="乔华云演唱曲剧《王小赶脚》选场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乔华云演唱曲剧《王小赶脚》选场.png" group-title="戏曲频道",乔华云演唱曲剧《王小赶脚》选场
+http://gcw.bdcdn.shoujiduoduo.com/v/190524/74c592424d50fd8dda66f52b9b30a650.mp4
+#EXTINF:-1 tvg-name="教闺女" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/教闺女.png" group-title="戏曲频道",教闺女
+http://gcw.bdcdn.shoujiduoduo.com/v/210127/870fd252bad1a37fbbc7f19196b2e9cf.mp4
+#EXTINF:-1 tvg-name="河南曲剧《四郎探母》【探母一折】" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南曲剧《四郎探母》【探母一折】.png" group-title="戏曲频道",河南曲剧《四郎探母》【探母一折】
+http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
+#EXTINF:-1 tvg-name="曲剧《秦香莲》方素珍、侯庆祥、李春景-河南省曲剧团" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《秦香莲》方素珍、侯庆祥、李春景-河南省曲剧团.png" group-title="戏曲频道",曲剧《秦香莲》方素珍、侯庆祥、李春景-河南省曲剧团
+http://gcw.bdcdn.shoujiduoduo.com/v/190907/9de92127ec2567101234d761b31c1a66.mp4
+#EXTINF:-1 tvg-name="马骐版河南曲剧《背靴访帅》姜还是老的辣!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马骐版河南曲剧《背靴访帅》姜还是老的辣!.png" group-title="戏曲频道",马骐版河南曲剧《背靴访帅》姜还是老的辣!
+http://gcw.bdcdn.shoujiduoduo.com/v/200919/906b70f4cd6f3ad139a2d4986cc48a78.mp4
+#EXTINF:-1 tvg-name="曲剧：刘垒、郭晓晓、郭艺芳《吴汉杀妻》内录音（洛阳市新安县曲剧团）" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧：刘垒、郭晓晓、郭艺芳《吴汉杀妻》内录音（洛阳市新安县曲剧团）.png" group-title="戏曲频道",曲剧：刘垒、郭晓晓、郭艺芳《吴汉杀妻》内录音（洛阳市新安县曲剧团）
+http://gcw.bdcdn.shoujiduoduo.com/v/190213/bccccb0837a838d9996b9fae89e4d493.mp4
+#EXTINF:-1 tvg-name="曲剧《柜中缘》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《柜中缘》.png" group-title="戏曲频道",曲剧《柜中缘》
+http://gcw.bdcdn.shoujiduoduo.com/v/190224/a43970035d5ea22b1d9e0e7b60415bd4.mp4
+#EXTINF:-1 tvg-name="曲剧《包公辞朝》怒打王强-马遂合演唱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧《包公辞朝》怒打王强-马遂合演唱.png" group-title="戏曲频道",曲剧《包公辞朝》怒打王强-马遂合演唱
+http://gcw.bdcdn.shoujiduoduo.com/v/191207/e3686f25f7c417454dbd2be4d0fbc87b.mp4
+#EXTINF:-1 tvg-name="南阳市金红曲剧团演唱1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南阳市金红曲剧团演唱1.png" group-title="戏曲频道",南阳市金红曲剧团演唱1
+http://gcw.bdcdn.shoujiduoduo.com/v/190714/79f329b25bd56d24d99d64c49da7ca84.mp4
+#EXTINF:-1 tvg-name="南阳市金红曲剧团演唱2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南阳市金红曲剧团演唱2.png" group-title="戏曲频道",南阳市金红曲剧团演唱2
+http://gcw.bdcdn.shoujiduoduo.com/v/190926/edde31e6fcbc72a7ef2203b9b9cad3a0.mp4
+#EXTINF:-1 tvg-name="南阳市金红曲剧团演唱3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南阳市金红曲剧团演唱3.png" group-title="戏曲频道",南阳市金红曲剧团演唱3
+http://gcw.bdcdn.shoujiduoduo.com/v/191003/1dacb6c7907dae26e14d1043cdcc8800.mp4
+#EXTINF:-1 tvg-name="李天方演唱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/李天方演唱.png" group-title="戏曲频道",李天方演唱
+http://gcw.bdcdn.shoujiduoduo.com/v/190609/6690ac91bca405dca8cada0ced8b054d.mp4
+#EXTINF:-1 tvg-name="20130928李豁子唱段.曲剧表演艺术家李天方演唱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/20130928李豁子唱段.曲剧表演艺术家李天方演唱.png" group-title="戏曲频道",20130928李豁子唱段.曲剧表演艺术家李天方演唱
+http://gcw.bdcdn.shoujiduoduo.com/v/190304/951409acd26e4d06be3d1b6ea1bc4ad8.mp4
+#EXTINF:-1 tvg-name="曲剧小折子《孤男寡女》李天方" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧小折子《孤男寡女》李天方.png" group-title="戏曲频道",曲剧小折子《孤男寡女》李天方
+http://gcw.bdcdn.shoujiduoduo.com/v/190706/3676c145c6f733a449f10d5bf1c6f500.mp4

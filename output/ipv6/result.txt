@@ -1,6 +1,6 @@
 📺央视频道#genre#,#genre#
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
@@ -135,8 +135,8 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 ☘️经典剧场#genre#,#genre#
 天龙八部,https://live.metshop.top/huya/23903123
 士兵突击,https://live.metshop.top/huya/11342430
-重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 YY,#genre#
 变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4

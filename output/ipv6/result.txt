@@ -128,44 +128,30 @@ CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118
 金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
-24H国漫热播,https://www.goodiptv.club/yy/1353937086
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-经典动漫,https://www.goodiptv.club/yy/22777075
-漫画解说,https://www.goodiptv.club/douyu/5907076
 
 ☘️经典剧场#genre#,#genre#
-上海滩,https://www.goodiptv.club/yy/1382745184
 天龙八部,https://live.metshop.top/huya/23903123
 士兵突击,https://live.metshop.top/huya/11342430
-笑傲江湖,http://live.metshop.top/huya/26355790
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 YY,#genre#
-24H国漫热播,https://www.goodiptv.club/yy/1353937086
-封神榜,https://www.goodiptv.club/yy/1382797534
 变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
 士兵突击,https://live.metshop.top/huya/11342430
-上海滩,https://www.goodiptv.club/yy/1382745184
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
-包蛋超人,https://www.goodiptv.club/huya/11342400
 
 🇨🇳电视剧轮播,#genre#
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 天龙八部,https://live.metshop.top/huya/23903123
-笑傲江湖,http://live.metshop.top/huya/26355790
-上海滩,https://www.goodiptv.club/yy/1382745184
-封神榜,https://www.goodiptv.club/yy/1382797534
-三国演义,http://live.metshop.top/huya/11602081
 
 🇨🇳虎牙直播,#genre#
 天龙八部,https://live.metshop.top/huya/23903123
-笑傲江湖,http://live.metshop.top/huya/26355790
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 
 戏曲频道,#genre#

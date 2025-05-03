@@ -130,6 +130,7 @@ CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 24H国漫热播,https://www.goodiptv.club/yy/1353937086
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
@@ -143,7 +144,6 @@ CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 天龙八部,https://live.metshop.top/huya/23903123
 亮剑电视轮播,http://tv123.top:35455/huya/30080238
 士兵突击,https://live.metshop.top/huya/11342430
-笑傲江湖,http://live.metshop.top/huya/26355790
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 83射雕英雄传,http://tv123.top:35455/yy/1354210357
 重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
@@ -184,14 +184,11 @@ YY,#genre#
 🇨🇳电视剧轮播,#genre#
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 天龙八部,https://live.metshop.top/huya/23903123
-笑傲江湖,http://live.metshop.top/huya/26355790
 上海滩,https://www.goodiptv.club/yy/1382745184
 封神榜,https://www.goodiptv.club/yy/1382797534
-三国演义,http://live.metshop.top/huya/11602081
 
 🇨🇳虎牙直播,#genre#
 天龙八部,https://live.metshop.top/huya/23903123
-笑傲江湖,http://live.metshop.top/huya/26355790
 康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 
 戏曲频道,#genre#

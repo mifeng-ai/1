@@ -184,6 +184,8 @@ CCTV-17,http://www.xiaomo520.top:4020/udp/239.252.220.192:5140
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
+经典动漫,https://www.goodiptv.club/yy/22777075
+漫画解说,https://www.goodiptv.club/douyu/5907076
 
 ☘️经典剧场#genre#,#genre#
 芈月传电视剧,http://tv123.top:35455/huya/11352975
@@ -191,10 +193,9 @@ CCTV-17,http://www.xiaomo520.top:4020/udp/239.252.220.192:5140
 天龙八部,https://live.metshop.top/huya/23903123
 亮剑电视轮播,http://tv123.top:35455/huya/30080238
 士兵突击,https://live.metshop.top/huya/11342430
-康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 83射雕英雄传,http://tv123.top:35455/yy/1354210357
-重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 雪中悍刀行剧,http://tv123.top:35455/huya/11336592
 95神雕侠侣粤,http://tv123.top:35455/yy/1354926637
 87经典红楼梦,http://tv123.top:35455/yy/1382745084
@@ -222,15 +223,13 @@ YY,#genre#
 变形金刚,https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4
 我的体育老师,http://tv123.top:35455/yy/1382745169
 士兵突击,https://live.metshop.top/huya/11342430
-康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
+包蛋超人,https://www.goodiptv.club/huya/11342400
 
 🇨🇳电视剧轮播,#genre#
-康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 天龙八部,https://live.metshop.top/huya/23903123
 
 🇨🇳虎牙直播,#genre#
 天龙八部,https://live.metshop.top/huya/23903123
-康熙王朝,http://www.52sw.top:678/play/huya.php?id=11352940
 
 戏曲频道,#genre#
 曲剧-海连池《卷席筒》大老爷你稳坐在察院,http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4

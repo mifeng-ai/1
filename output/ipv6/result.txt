@@ -9,8 +9,8 @@ CCTV-3,http://www.xiaomo520.top:4020/udp/239.252.219.252:5140#http://www.xiaomo5
 CCTV-4,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664
 CCTV-4,http://www.xiaomo520.top:4020/udp/239.252.220.184:5140
 CCTV-5,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
+CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-5,http://www.xiaomo520.top:4020/udp/239.252.219.198:5140#http://www.xiaomo520.top:4020/udp/239.252.219.236:5140
 CCTV-5+,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504
 CCTV-5+,http://www.xiaomo520.top:4020/udp/239.252.219.72:5140
@@ -91,8 +91,8 @@ CCTV-17,http://www.xiaomo520.top:4020/udp/239.252.220.192:5140
 江西卫视,http://www.xiaomo520.top:4020/udp/239.252.220.63:5140
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 辽宁卫视,http://www.xiaomo520.top:4020/udp/239.252.220.62:5140
-内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
 内蒙古卫视,http://www.xiaomo520.top:4020/udp/239.252.219.48:5140
 宁夏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010110
 宁夏卫视,http://www.xiaomo520.top:4020/udp/239.252.219.104:5140
@@ -180,7 +180,6 @@ CCTV-17,http://www.xiaomo520.top:4020/udp/239.252.220.192:5140
 金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413

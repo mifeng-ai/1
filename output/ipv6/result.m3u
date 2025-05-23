@@ -13,12 +13,14 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道#genre#",广西卫视
 https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道#genre#",广西卫视
-https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道#genre#",河北卫视
 https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道#genre#",河北卫视
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道#genre#",山东卫视
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="☘️湖南频道#genre#",湖南都市
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 #EXTINF:-1 tvg-name="洛阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳综合.png" group-title="☘️河南频道#genre#",洛阳综合
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳科教.png" group-title="☘️河南频道#genre#",洛阳科教
@@ -75,8 +77,14 @@ https://oto.lv.tab.digital/s/78skjAyXSaJNgbj/download/23.mp4
 https://oto.lv.tab.digital/s/3tjxBXLGRcoArpG/download/24.mp4
 #EXTINF:-1 tvg-name="马向阳第25集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第25集.png" group-title="📺马向阳#genre#",马向阳第25集
 https://oto.lv.tab.digital/s/DFtgGxAGekRcDPL/download/25.mp4
+#EXTINF:-1 tvg-name="马向阳第26集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第26集.png" group-title="📺马向阳#genre#",马向阳第26集
+https://oto.lv.tab.digital/s/xJqYy9pBPBZCYCz/download/26.mp4
 #EXTINF:-1 tvg-name="马向阳第27集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马向阳第27集.png" group-title="📺马向阳#genre#",马向阳第27集
 https://oto.lv.tab.digital/s/L6S3fmHfRj9TYbi/download/27.mp4
+#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱动漫.png" group-title="☘️动画频道#genre#",爱动漫
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="☘️动画频道#genre#",黑莓动画
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 #EXTINF:-1 tvg-name="曲剧-海连池《卷席筒》大老爷你稳坐在察院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/曲剧-海连池《卷席筒》大老爷你稳坐在察院.png" group-title="戏曲频道",曲剧-海连池《卷席筒》大老爷你稳坐在察院
 http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4
 #EXTINF:-1 tvg-name="卷席筒" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卷席筒.png" group-title="戏曲频道",卷席筒

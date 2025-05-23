@@ -1,3 +1,25 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+
+epg.pw
+skype.serv00.net
+iptv.yjxfz.com
+live-hls-web-ajb.getaj.net
+live.goodiptv.club
+hc73k3dhwo5gfkt.wcetv.com
+stream1.freetv.fun
+zw9999.cnstream.top
+zsntlqj.xicp.net
+ku9.3n.cc
+
+
+https://www.freetv.top/migu
+http://j.x.bkpcp.top
+
+http://z.b.bkpcp.top/
+http://goo.bkpcp.top
+http://www.freetv.top/migu
+http://www.clmy.cc:35455/
+http://61.133.118.228:5001/
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8

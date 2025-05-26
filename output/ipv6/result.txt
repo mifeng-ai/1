@@ -1,19 +1,25 @@
 📺央视频道#genre#,#genre#
+CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+CCTV-1,https://live.tvfix.org/live/cctv1hd/index.m3u8
+CCTV-4,https://migu1.188766.xyz/?migutoken=536ea2884e0960fe99afdd786ae06d96&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 
 📡卫视频道#genre#,#genre#
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 
 ☘️湖南频道#genre#,#genre#
-湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 
 ☘️天津频道#genre#,#genre#
 
@@ -57,14 +63,23 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 ☘️动画频道#genre#,#genre#
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
+海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413
 
 ☘️经典剧场#genre#,#genre#
+天龙八部,https://live.metshop.top/huya/23903123
+士兵突击,https://live.metshop.top/huya/11342430
 
 YY,#genre#
+士兵突击,https://live.metshop.top/huya/11342430
 
 🇨🇳电视剧轮播,#genre#
+天龙八部,https://live.metshop.top/huya/23903123
+三国演义,https://live.metshop.top/yy/32788000
 
 🇨🇳虎牙直播,#genre#
+天龙八部,https://live.metshop.top/huya/23903123
 
 戏曲频道,#genre#
 曲剧-海连池《卷席筒》大老爷你稳坐在察院,http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4

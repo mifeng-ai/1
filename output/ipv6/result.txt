@@ -14,9 +14,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 
 📡卫视频道#genre#,#genre#
-广东卫视,http://congtou.top:9292/udp/239.77.0.166:5146
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -30,6 +31,7 @@ CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 
 ☘️湖南频道#genre#,#genre#
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
+湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 
 ☘️天津频道#genre#,#genre#
@@ -76,9 +78,11 @@ CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 ☘️动画频道#genre#,#genre#
 动漫秀场,http://miqlin.cyou:8888/udp/233.18.204.46:5140
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 海绵宝宝,https://live.metshop.top/douyu/3949681
-漫画解说,https://judy.livednow.dpdns.org/yy/1382735568
 
 ☘️经典剧场#genre#,#genre#
 鹿鼎记,https://judy.livednow.dpdns.org/yy/382704650
@@ -86,17 +90,21 @@ CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 上海滩,https://judy.livednow.dpdns.org/yy/1382745184
 魔幻手机,https://judy.livednow.dpdns.org/yy/1382735544
 宫心计,https://judy.livednow.dpdns.org/yy/1354933540#http://43.138.170.29:35455/yy/1354933540
+天龙八部,https://live.metshop.top/huya/23903123
+天龙八部,http://www.52sw.top:678/play/huya.php?id=23903123
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644#http://58.39.190.143:35455/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1382749944
-天龙八部,https://live.metshop.top/huya/23903123
 鸡毛飞上天,https://judy.livednow.dpdns.org/yy/1461033197#http://58.39.190.143:35455/yy/1461033197
 举起手来-惊险抗日,https://judy.livednow.dpdns.org/yy/1382736877
-士兵突击,https://judy.livednow.dpdns.org/yy/1382828766
 士兵突击,https://live.metshop.top/huya/11342430
+士兵突击,https://judy.livednow.dpdns.org/yy/1382828766
+射雕英雄传,http://www.52sw.top:678/play/huya.php?id=23824164
 射雕英雄传,https://judy.livednow.dpdns.org/yy/1354210357
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426#http://58.39.190.143:35455/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
+笑傲江湖,http://www.52sw.top:678/play/huya.php?id=26355790
+笑傲江湖,http://www.52sw.top:678/play/huya.php?id=23865142
 笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909
 笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909#http://58.39.190.143:35455/yy/1354930909
 钟馗传说,https://judy.livednow.dpdns.org/yy/1382736839
@@ -131,6 +139,7 @@ YY,#genre#
 狂飙,https://judy.livednow.dpdns.org/yy/1355142167#http://58.39.190.143:35455/yy/1355142167
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426#http://58.39.190.143:35455/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
+封神榜,http://www.52sw.top:678/play/huya.php?id=23749096
 封神榜,https://judy.livednow.dpdns.org/yy/1356043643#http://58.39.190.143:35455/yy/1356043643
 新白娘子传奇,https://judy.livednow.dpdns.org/yy/1354490667#http://58.39.190.143:35455/yy/1354490667#http://43.138.170.29:35455/yy/1354930969
 神医喜来乐,https://judy.livednow.dpdns.org/yy/1382714119#http://58.39.190.143:35455/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
@@ -165,8 +174,8 @@ YY,#genre#
 洪金宝福星系列,https://judy.livednow.dpdns.org/yy/1354924839
 聊斋志异S1,https://judy.livednow.dpdns.org/yy/1382736975
 易中天品三国,https://judy.livednow.dpdns.org/yy/1354931498
-士兵突击,https://judy.livednow.dpdns.org/yy/1382828766
 士兵突击,https://live.metshop.top/huya/11342430
+士兵突击,https://judy.livednow.dpdns.org/yy/1382828766
 非诚勿扰,https://judy.livednow.dpdns.org/yy/1382745100
 高分动作大片-热血出击,https://judy.livednow.dpdns.org/yy/1382736909
 上海滩,https://judy.livednow.dpdns.org/yy/1382745184
@@ -180,12 +189,15 @@ YY,#genre#
 纪晓岚,https://judy.livednow.dpdns.org/yy/1382781415#http://58.39.190.143:35455/yy/1382781415
 宰相刘罗锅,https://judy.livednow.dpdns.org/yy/1382745191
 神医喜来乐,https://judy.livednow.dpdns.org/yy/1382714119#http://58.39.190.143:35455/yy/1382714119#https://lunbo.freetv.top/yy/1382714119
+天龙八部,https://live.metshop.top/huya/23903123
+天龙八部,http://www.52sw.top:678/play/huya.php?id=23903123
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644#http://58.39.190.143:35455/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1382749944
-天龙八部,https://live.metshop.top/huya/23903123
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426#http://58.39.190.143:35455/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
+笑傲江湖,http://www.52sw.top:678/play/huya.php?id=26355790
+笑傲江湖,http://www.52sw.top:678/play/huya.php?id=23865142
 笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909
 笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909#http://58.39.190.143:35455/yy/1354930909
 射雕英雄传83版,https://judy.livednow.dpdns.org/yy/1354210357#https://lunbo.freetv.top/yy/1354210357
@@ -199,6 +211,7 @@ YY,#genre#
 大时代,https://judy.livednow.dpdns.org/yy/1354930891#http://58.39.190.143:35455/yy/1354930891#https://lunbo.freetv.top/yy/1354930891
 新白娘子传奇,https://judy.livednow.dpdns.org/yy/1354490667#http://58.39.190.143:35455/yy/1354490667#http://43.138.170.29:35455/yy/1354930969
 溏心风暴之家好月圆,https://judy.livednow.dpdns.org/yy/1354888747#https://judy.livednow.dpdns.org/yy/1354888747#https://lunbo.freetv.top/yy/1354888747
+封神榜,http://www.52sw.top:678/play/huya.php?id=23749096
 封神榜,https://judy.livednow.dpdns.org/yy/1356043643#http://58.39.190.143:35455/yy/1356043643
 打狗棍,https://judy.livednow.dpdns.org/yy/39736069#http://58.39.190.143:35455/yy/39736069
 战狼,https://judy.livednow.dpdns.org/yy/1354784966#http://58.39.190.143:35455/yy/1354784966
@@ -208,9 +221,8 @@ YY,#genre#
 鸡毛飞上天,https://judy.livednow.dpdns.org/yy/1461033197#http://58.39.190.143:35455/yy/1461033197
 火蓝刀锋,https://judy.livednow.dpdns.org/yy/1382737892
 钟馗传说,https://judy.livednow.dpdns.org/yy/1382736839
-三国演义,https://judy.livednow.dpdns.org/yy/1354936241#http://58.39.190.143:35455/yy/1354936241
 三国演义,https://live.metshop.top/yy/32788000
-三国演义,http://live.metshop.top/huya/11602081
+三国演义,https://judy.livednow.dpdns.org/yy/1354936241#http://58.39.190.143:35455/yy/1354936241
 狂飙,https://judy.livednow.dpdns.org/yy/1355142167#http://58.39.190.143:35455/yy/1355142167
 红楼梦,https://judy.livednow.dpdns.org/yy/1382745084#http://58.39.190.143:35455/yy/1382745084#https://lunbo.freetv.top/yy/1382745084
 谈判专家,https://judy.livednow.dpdns.org/yy/1382735560#https://lunbo.freetv.top/yy/1382735560
@@ -221,13 +233,17 @@ YY,#genre#
 🇨🇳虎牙直播,#genre#
 鹿鼎记,https://judy.livednow.dpdns.org/yy/382704650
 鹿鼎记,https://judy.livednow.dpdns.org/yy/28265277#http://58.39.190.143:35455/huya/23865080#http://58.39.190.143:35455/yy/28265277#https://lunbo.freetv.top/yy/1382736920
+射雕英雄传,http://www.52sw.top:678/play/huya.php?id=23824164
 射雕英雄传,https://judy.livednow.dpdns.org/yy/1354210357
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426
 神雕侠侣,https://judy.livednow.dpdns.org/yy/1351762426#http://58.39.190.143:35455/yy/1351762426#https://lunbo.freetv.top/yy/1351762426
+天龙八部,https://live.metshop.top/huya/23903123
+天龙八部,http://www.52sw.top:678/play/huya.php?id=23903123
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1351814644#http://58.39.190.143:35455/yy/1351814644
 天龙八部,https://judy.livednow.dpdns.org/yy/1382749944
-天龙八部,https://live.metshop.top/huya/23903123
+笑傲江湖,http://www.52sw.top:678/play/huya.php?id=26355790
+笑傲江湖,http://www.52sw.top:678/play/huya.php?id=23865142
 笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909
 笑傲江湖,https://judy.livednow.dpdns.org/yy/1354930909#http://58.39.190.143:35455/yy/1354930909
 寻秦记,https://judy.livednow.dpdns.org/yy/1382749900#http://58.39.190.143:35455/yy/1382749900

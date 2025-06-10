@@ -61,3 +61,7 @@ https://vip.123pan.cn/1814643527/tv/qwt.m3u
 https://gitee.com/kaige66666/mytv/raw/master/iptv4.m3u8
 https://gitee.com/ac222/zby/raw/master/shanxi.txt
 https://nptv.freetv.top/juhe.m3u
+
+https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/a244f6f5c08565a9a0e319d6a3cc2e919d05d893/MY%E6%8E%A2%E6%8E%A2.txt
+http://xmbjm.fh4u.org/ck.txthttp://146.59.253.52:8080/hindihitshd/index.m3u8
+http://kkk.888.3116598.xyz//user/HKTV.txt极限

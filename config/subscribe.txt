@@ -11,10 +11,10 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+
+
+https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/hnyd.m3u
-
-
-
 https://codeberg.org/nifeng/2/raw/branch/main/1.txt
 https://codeberg.org/xiaohuli/ZJ.4K/raw/branch/main/keke.png
 https://live.kilvn.com/iptv.m3u

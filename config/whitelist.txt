@@ -4,7 +4,7 @@
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
 
-
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/hnyd.m3u
 戏曲频道,#genre# 
 马向阳第1集,https://oto.lv.tab.digital/s/wAYt7AbP7DSSny3/download/%E9%A9%AC%E5%90%91%E9%98%B301.MP4
 马向阳第2集,https://oto.lv.tab.digital/s/nHWRbtny8cHMmZ6/download/2.mp4

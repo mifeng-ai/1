@@ -21,7 +21,7 @@ https://live.freetv.top/huyayqk.m3u
 https://live.freetv.top/douyuyqk.m3u
 https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top
 https://www.goodiptv.club/bililive.m3u
-
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/hnyd.m3u
 
 https://tv.iill.top/m3u/Live
 https://codeberg.org/lxxcp/live/raw/branch/main/jxdxiptv.txt

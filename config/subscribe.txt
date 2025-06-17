@@ -68,3 +68,9 @@ http://kkk.888.3116598.xyz//user/HKTV.txt极限
 https://tv.iill.top/m3u/MyTV
 https://tv.iill.top/m3u/Live
 https://vip.123pan.cn/1814643527/tv/qwt.m3u
+http://8.138.7.223/51.txt
+https://iptv.b2og.com/txt/y_g.txt
+https://free.cnlive.club/smt.m3u
+http://home.jundie.top:81/Cat/tv/live.txt
+https://gitee.com/jin-xueling/cinematography/raw/master/lc2.txt
+http://kkk.jjjj.jiduo.me/user/tttt/api.txt

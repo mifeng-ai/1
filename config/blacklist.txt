@@ -2,4 +2,6 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 
-freetv.top/
+http://freetv.top/
+
+http://smart.tv.home.kg/

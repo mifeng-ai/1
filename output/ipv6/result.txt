@@ -37,21 +37,19 @@ CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/1.m3u8?fmt=ts2hls
 CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/1.m3u8?fmt=ts2hls
 CCTV-13,http://www.freetv.top/migu/608807423.m3u8?migutoken=d8e7d5104925c13570533f5db2f808b4613be4d2901d3d406a67fca92ee219bc3692dff97d63d38123fde519465b77404b0a2c0c59bec5e83ad2be42019845acc7e59290159021d585352689cc
+CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?fmt=ts2hls
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?fmt=ts2hls
 CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
 CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-CCTV-15,http://sport.pendy.dpdns.org/migu/673168223
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
@@ -63,7 +61,6 @@ CCTV-17,http://sport.pendy.dpdns.org/migu/673168256
 广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?fmt=ts2hls
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?fmt=ts2hls
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?fmt=ts2hls
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
@@ -89,8 +86,8 @@ CCTV-17,http://sport.pendy.dpdns.org/migu/673168256
 东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?fmt=ts2hls
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?fmt=ts2hls
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226973/1.m3u8?fmt=ts2hls
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226973/1.m3u8?fmt=ts2hls
 海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -190,8 +187,8 @@ CCTV-17,http://sport.pendy.dpdns.org/migu/673168256
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 ☘️经典剧场#genre#,#genre#
-上海滩,https://www.goodiptv.club/yy/1382745184
 上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
+上海滩,https://www.goodiptv.club/yy/1382745184
 天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,https://www.goodiptv.club/yy/1382749944
 鸡毛飞上天,http://live.metshop.top/huya/29982664
@@ -208,8 +205,8 @@ YY,#genre#
 新白娘子传奇,https://live.metshop.top/huya/26355768
 新白娘子传奇,https://www.goodiptv.club/yy/1354490667
 鸡毛飞上天,http://live.metshop.top/huya/29982664
-上海滩,https://www.goodiptv.club/yy/1382745184
 上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
+上海滩,https://www.goodiptv.club/yy/1382745184
 包蛋超人,https://www.goodiptv.club/huya/11342400
 
 🇨🇳电视剧轮播,#genre#
@@ -218,8 +215,8 @@ YY,#genre#
 笑傲江湖,https://live.metshop.top/yy/1354936128
 笑傲江湖,https://www.goodiptv.club/yy/1352833750
 笑傲江湖,https://www.goodiptv.club/yy/1354930909
-上海滩,https://www.goodiptv.club/yy/1382745184
 上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
+上海滩,https://www.goodiptv.club/yy/1382745184
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子传奇,https://live.metshop.top/huya/26355768
 新白娘子传奇,https://www.goodiptv.club/yy/1354490667
@@ -231,7 +228,6 @@ YY,#genre#
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://live.metshop.top/huya/11602081
 三国演义,https://www.goodiptv.club/yy/32788000
-三国演义,http://tv.666150.xyz/huya.php?id=11602081
 济公游记,https://www.goodiptv.club/yy/1355265814
 
 🇨🇳虎牙直播,#genre#

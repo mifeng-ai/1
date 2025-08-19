@@ -49,15 +49,17 @@ CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?f
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?fmt=ts2hls
 CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV-14,http://rustdesk.szsun.xyz:8088/udp/239.77.1.161:5146
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
 CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396
+CCTV-15,http://rustdesk.szsun.xyz:8088/udp/239.77.1.239:5146
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
+CCTV-16,http://rustdesk.szsun.xyz:8088/udp/239.77.0.165:5146
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
 CCTV-17,http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2ee0a1b7bd0b0dd192935d111a196fb0a283c3070537cce6951301b2cc3e6f7de31ffdb9b7c4095d6c008d8333e21e5070375ca86124640133c9fa4c6ffa847f
-CCTV-17,http://tv123.top:35455/mgtv/673168256.m3u8
+CCTV-17,http://rustdesk.szsun.xyz:8088/udp/239.77.1.121:5146
 
 📡卫视频道#genre#,#genre#
 广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?fmt=ts2hls
@@ -68,9 +70,8 @@ CCTV-17,http://tv123.top:35455/mgtv/673168256.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=7d0c18bf93541a9c3d4221bd019b0f52&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?fmt=ts2hls
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?fmt=ts2hls
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?fmt=ts2hls
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?fmt=ts2hls
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?fmt=ts2hls
@@ -200,9 +201,9 @@ CCTV-17,http://tv123.top:35455/mgtv/673168256.m3u8
 马向阳第27集,https://oto.lv.tab.digital/s/L6S3fmHfRj9TYbi/download/27.mp4
 
 ☘️动画频道#genre#,#genre#
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
 七龙珠,https://www.goodiptv.club/huya/11601966
 火影忍者,https://www.goodiptv.club/huya/29465866
@@ -217,7 +218,6 @@ CCTV-17,http://tv123.top:35455/mgtv/673168256.m3u8
 
 ☘️经典剧场#genre#,#genre#
 上海滩,https://www.goodiptv.club/yy/1382745184
-上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
 魔幻手机,https://www.goodiptv.club/huya/11352966
 铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
 白鹿原,https://www.goodiptv.club/huya/11342416
@@ -270,7 +270,6 @@ YY,#genre#
 魔幻手机,https://www.goodiptv.club/huya/11352966
 士兵突击,https://www.goodiptv.club/huya/11342430
 上海滩,https://www.goodiptv.club/yy/1382745184
-上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
 精彩动作电影享不停,https://mursor.ottiptv.cc/yy/1382736809
 康熙王朝,https://www.goodiptv.club/huya/11352940
 你是我的荣耀,https://www.goodiptv.club/huya/11352920
@@ -310,7 +309,6 @@ YY,#genre#
 笑傲江湖,https://www.goodiptv.club/huya/23865142
 寻秦记,https://www.goodiptv.club/huya/29465848
 上海滩,https://www.goodiptv.club/yy/1382745184
-上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
 大时代,https://www.goodiptv.club/huya/23865161
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子传奇,https://live.metshop.top/huya/26355768
@@ -321,10 +319,10 @@ YY,#genre#
 封神榜,https://www.goodiptv.club/huya/29465849
 鸡毛飞上天,http://live.metshop.top/huya/29982664
 钟馗传说,https://mursor.ottiptv.cc/yy/1382736839
-三国演义,http://www.goodiptv.club/bilibili/30774499
 三国演义,https://live.metshop.top/yy/32788000
 三国演义,https://live.metshop.top/yy/1354936241
 三国演义,https://live.metshop.top/huya/11602081
+三国演义,http://www.goodiptv.club/bilibili/30774499
 三国演义,https://www.goodiptv.club/yy/32788000
 三国演义,https://www.goodiptv.club/huya/11602081
 三国演义,http://live.metshop.top/huya/11602081
